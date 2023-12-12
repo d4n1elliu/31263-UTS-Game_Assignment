@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 805b0450c563e1a499868c13183cf450
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pelletEatingSound: {fileID: 8300000, guid: 91f4fbda5b925884296a322b54c4de64, type: 3}
+  - movingSound: {fileID: 8300000, guid: 40df68edc738af44488bac74ada3f1a2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
